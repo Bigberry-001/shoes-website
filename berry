@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="shoes.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><span>
+        <nav>
+            <ul>
+                <a href="bag.html">BAGS</a>
+                <a href="shoes.html">SHOES</a>
+            </ul>
+        </nav>
+    </span></header>
+    <form>
+        <iframe src="images.jpg" frameborder="10"></iframe>
+    <img src="IMG_7977.JPG" alt="$1000">
+    </form>
+    <ul>
+        <ol>TYPES OF SHOES AVAILABLE</ol>
+        <p></p>
+        <li>THE GOLDEN SHOES</li>
+        <li>THE NORMAL SHOES</li>
+        <li>THE ROYAL SHOES</li>
+
+    </ul>
+    <p>Below are the prices of each shoes</p>
+<table>
+    <tr>
+        <th>THE GOLDEN SHOES</th>
+        <td>$1000</td>
+    </tr>
+    <tr>
+        <th>THE NORMAL SHOES</th>
+        <td>$500</td>
+    </tr>
+    <tr>
+        <th>THE ROYAL SHOES</th>
+        <td>$20000</td>
+    </tr>
+</table>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus nesciunt, id explicabo delectus veritatis libero ratione officiis culpa. Obcaecati in sequi ut ipsa labore magnam iure asperiores, neque sed similique.
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae, corrupti delectus ducimus non excepturi minus aspernatur reprehenderit voluptatibus dolorum nemo, exercitationem ipsam unde vero facere impedit nam? Eligendi, nihil commodi.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, eos! Quas dignissimos, sunt rerum enim aut nobis autem repellendus assumenda at dicta ex atque molestias a quam quos id veniam!
+</p>
+
+   <div>
+    <a href="nextpageforshoes.html">NEXTPAGE</a>
+   </div> 
+   <p></p>
+   <div>
+    <a href="previouspageforshoes.html">PREVIOUS PAGE</a>
+   </div>
+</body>
+</html>
